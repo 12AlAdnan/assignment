@@ -1,14 +1,16 @@
-body{
+body {
   margin-left: 140px;
   margin-right: 140px;
   margin-top: 50px;
 }
+
 /* banner style  */
 .banner {
   background-image: url("../images/Banner\ Image.png");
   filter: brightness(80%);
   width: 1320px;
   height: 600px;
+  background-repeat: no-repeat;
 }
 
 .banner-title {
@@ -26,4 +28,28 @@ body{
   font-weight: 900;
   line-height: 95px;
   padding-bottom: 177px;
+}
+
+/* main section style  */
+.about {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.about-head {
+  color: #f00;
+  font-size: 88px;
+  font-weight: 700;
+}
+
+.about-title {
+  color: #f00;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.about-subtitle {
+  color: #070211;
+  font-size: 48px;
+  font-weight: 700;
 }
