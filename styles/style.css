@@ -1,0 +1,29 @@
+body{
+  margin-left: 140px;
+  margin-right: 140px;
+  margin-top: 50px;
+}
+/* banner style  */
+.banner {
+  background-image: url("../images/Banner\ Image.png");
+  filter: brightness(80%);
+  width: 1320px;
+  height: 600px;
+}
+
+.banner-title {
+  color: #fff;
+  text-align: center;
+  font-size: 42px;
+  font-weight: 400;
+  padding-top: 120px;
+}
+
+.banner-sub-title {
+  color: #fff;
+  text-align: center;
+  font-size: 100px;
+  font-weight: 900;
+  line-height: 95px;
+  padding-bottom: 177px;
+}
