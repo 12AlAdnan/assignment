@@ -92,3 +92,28 @@ body {
   text-transform: uppercase;
   margin-left: 128px;
 }
+
+.event-address {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.event-style {
+  color: #f00;
+}
+
+.btn-second {
+  border-radius: 8px;
+  background: #F00;
+  color: #FFF;
+  text-align: center;
+  padding: 16px 32px;
+  font-size: 20px;
+  font-weight: 700;
+}
+#btn-style{
+  text-align: center;
+  margin-top: 48px;
+  margin-bottom: 110px;
+}
